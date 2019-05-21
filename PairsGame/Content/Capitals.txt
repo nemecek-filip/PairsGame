@@ -1,0 +1,12 @@
+Vienna:Austria
+Berlin:Germany
+Prague:Czech Republic
+Spain:Madrid
+Denmark:Copenhagen
+Sweden:Stockholm
+Poland:Warsaw
+Italy:Rome
+France:Paris
+Belarus:Minsk
+Hungary:Budapest
+Switzerland:Berne
